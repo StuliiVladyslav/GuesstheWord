@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\Programs\Visual Studio\Repos\Viselitsa_EKZ\Viselitsa_EKZ\main.cpp(24,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Programs\Visual Studio\Repos\Viselitsa_EKZ\Viselitsa_EKZ\main.cpp(25,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+main.obj : error LNK2019: unresolved external symbol __imp_PlaySoundW referenced in function "void __cdecl start(void)" (?start@@YAXXZ)
+D:\Programs\Visual Studio\Repos\Viselitsa_EKZ\x64\Debug\Viselitsa_EKZ.exe : fatal error LNK1120: 1 unresolved externals

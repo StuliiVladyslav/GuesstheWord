@@ -1,0 +1,12 @@
+﻿  main.cpp
+D:\Programs\Visual Studio\Repos\Viselitsa_EKZ\Viselitsa_EKZ\start.h(67,20): warning C4018: '<': signed/unsigned mismatch
+D:\Programs\Visual Studio\Repos\Viselitsa_EKZ\Viselitsa_EKZ\start.h(93,20): warning C4018: '<': signed/unsigned mismatch
+D:\Programs\Visual Studio\Repos\Viselitsa_EKZ\Viselitsa_EKZ\start.h(115,20): warning C4018: '<': signed/unsigned mismatch
+D:\Programs\Visual Studio\Repos\Viselitsa_EKZ\Viselitsa_EKZ\lose.h(24,26): warning C4244: '=': conversion from 'clock_t' to 'float', possible loss of data
+D:\Programs\Visual Studio\Repos\Viselitsa_EKZ\Viselitsa_EKZ\win.h(24,26): warning C4244: '=': conversion from 'clock_t' to 'float', possible loss of data
+D:\Programs\Visual Studio\Repos\Viselitsa_EKZ\Viselitsa_EKZ\main.cpp(130,27): warning C4018: '<': signed/unsigned mismatch
+D:\Programs\Visual Studio\Repos\Viselitsa_EKZ\Viselitsa_EKZ\main.cpp(173,27): warning C4018: '<': signed/unsigned mismatch
+D:\Programs\Visual Studio\Repos\Viselitsa_EKZ\Viselitsa_EKZ\main.cpp(263,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Programs\Visual Studio\Repos\Viselitsa_EKZ\Viselitsa_EKZ\main.cpp(264,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Programs\Visual Studio\Repos\Viselitsa_EKZ\Viselitsa_EKZ\main.cpp(299,23): warning C4018: '<': signed/unsigned mismatch
+  Viselitsa_EKZ.vcxproj -> D:\Programs\Visual Studio\Repos\Viselitsa_EKZ\Debug\Viselitsa_EKZ.exe
